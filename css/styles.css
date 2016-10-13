@@ -1,0 +1,24 @@
+.align-right {
+  float: right;
+}
+
+ul {
+align-content: right;
+}
+.moon {
+  float: left;
+}
+.ed{
+  float: right;
+}
+.bear {
+  float: right;
+}
+.king{
+  float: right;
+}
+
+img {
+  height: 178px;
+  width: 100px;
+}
